@@ -1,6 +1,7 @@
+# DedSec GRUB2 Theme
 ![DedSec Logo](/media/logo.jpg)
 
-**DedSec GRUB2 theme** is a theme I created inspired by the hacker group DedSec from Watch Dogs game released by Ubisoft.
+This theme was created inspired by the awesome fictional hacker group **DedSec** from **Watch Dogs** video game released by **Ubisoft**.
 
 # Getting Started
 
