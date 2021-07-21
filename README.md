@@ -3,28 +3,37 @@
 
 This theme was created inspired by the awesome fictional hacker group **DedSec** from **Watch Dogs** video game released by **Ubisoft**.
 
-# Getting Started
+## 🗒️ Getting Started
 
 First clone the repository, then navigate into it.
 ```shell
 git clone https://github.com/vandalsoul/dedsec-grub2-theme.git
 cd dedsec-grub2-theme
 ```
+Run the *install.sh*
+```shell
+chmod +x install.sh
+sudo ./install.sh
+```
 
-## ⚙️ Installation
+## ⚙️ Manual Installation
 
 Copy the theme directory.
 ```shell
 sudo cp -r dedsec /boot/grub/themes/
 ```
-Change the GRUB config file
+Make changes to the GRUB config file
 ```shell
-sudo cp -r dedsec /boot/grub/themes/
+sudo nano /etc/default/grub
 ```
-Finally, update grub.
+Find the line `GRUB_THEME=` then change it to `blahhhhhh`
+On your keyboard press `Ctrl + O` then press `Enter`, the changes will be saved.
+
+Finally, update the grub.
 ```shell
 sudo update-grub
 ```
+There you go all done.
 
 ## 📸 Screenshots
 
