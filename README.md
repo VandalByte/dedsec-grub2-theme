@@ -1,0 +1,1 @@
+# dedsec-grub2-theme
