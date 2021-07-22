@@ -43,4 +43,4 @@ There you go all done.
 Coming Soon !
 
 ## 📝 License
-Made with 💖 and it's released under the **MIT license**.
+Made with 💖 and it's released under the **GNU General Public License v3.0**.
