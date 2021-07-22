@@ -10,10 +10,11 @@ First clone the repository, then navigate into it.
 git clone https://github.com/vandalsoul/dedsec-grub2-theme.git
 cd dedsec-grub2-theme
 ```
-Run the *install.sh*
+**[-NOTE-]** *The install.py script is only compatible with **Debian** based linux distributions so far.For others you should stick with the **Maual Installation**.*
+
+Run the *install.py*
 ```shell
-chmod +x install.sh
-sudo ./install.sh
+sudo python3 install.py
 ```
 
 ## ⚙️ Manual Installation
@@ -23,10 +24,13 @@ Copy the theme directory.
 sudo cp -r dedsec /boot/grub/themes/
 ```
 Make changes to the GRUB config file
+
+*I'm using nano editor here, you can use the one of your choice.*
 ```shell
 sudo nano /etc/default/grub
 ```
-Find the line `GRUB_THEME=` then change it to `blahhhhhh`
+Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub/themes/dedsec/theme.txt"`
+
 On your keyboard press `Ctrl + O` then press `Enter`, the changes will be saved.
 
 Finally, update the grub.
