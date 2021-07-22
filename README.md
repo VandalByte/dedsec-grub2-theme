@@ -2,6 +2,9 @@
 
 This theme was created inspired by the awesome fictional hacker group **DedSec** from **Watch Dogs** video game developed by **Ubisoft**.
 
+## 📸 Screenshots
+![Screenshot](/media/screenshot.png)
+
 ## ✨ Getting Started
 
 First clone the repository, then navigate into it.
@@ -37,9 +40,6 @@ Finally, update the grub.
 sudo update-grub
 ```
 There you go all done.
-
-## 📸 Screenshots
-![Screenshot](/media/screenshot.png)
 
 ## 📝 License
 Made with 💖 and it's released under the **GNU General Public License v3.0**.
