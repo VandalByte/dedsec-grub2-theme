@@ -1,3 +1,7 @@
+# DedSec GRUB theme
+#
+# Written by Vandal (vandalsoul)
+# Repository: https://github.com/vandalsoul/dedsec-grub2-theme/
 
 # Global properties
 
@@ -47,9 +51,3 @@ terminal-box: "menu_bkg_*.png"
     bar_style = "progress_bar_*.png"
     highlight_style = "progress_highlight_*.png"
 }
-
-
-# TODOS:
-# Change font to ubuntu
-# change color of progress bar #15f4ee
-# sudo grub2-mkfont -s 14 -o /boot/grub2/DejaVuSansMono.pf2 /usr/share/fonts/dejavu/DejaVuSansMono.ttf
