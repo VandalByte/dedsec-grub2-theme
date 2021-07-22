@@ -1,14 +1,14 @@
-# ______         _ _____             _____ ______ _   _______   _   _                         
-# |  _  \       | /  ___|           |  __ \| ___ \ | | | ___ \ | | | |                        
-# | | | |___  __| \ `--.  ___  ___  | |  \/| |_/ / | | | |_/ / | |_| |__   ___ _ __ ___   ___ 
+# ______         _ _____             _____ ______ _   _______   _   _
+# |  _  \       | /  ___|           |  __ \| ___ \ | | | ___ \ | | | |
+# | | | |___  __| \ `--.  ___  ___  | |  \/| |_/ / | | | |_/ / | |_| |__   ___ _ __ ___   ___
 # | | | / _ \/ _` |`--. \/ _ \/ __| | | __ |    /| | | | ___ \ | __| '_ \ / _ \ '_ ` _ \ / _ \
 # | |/ /  __/ (_| /\__/ /  __/ (__  | |_\ \| |\ \| |_| | |_/ / | |_| | | |  __/ | | | | |  __/
 # |___/ \___|\__,_\____/ \___|\___|  \____/\_| \_|\___/\____/   \__|_| |_|\___|_| |_| |_|\___|
-# 
+#
 # Written by : Vandal (vandalsoul)
 # Github : https://github.com/vandalsoul/dedsec-grub-theme/
 #
-                                                                                            
+
 # imports
 import subprocess
 
@@ -49,23 +49,28 @@ THEME_DIR = "dedsec/"
 OS_RELEASE = get_os_release()  # getting os release id
 
 if not OS_RELEASE:  # exits if cant find
-    print("(!) Couldn't find the OS release version. Exiting the script...")
+    print("\n(!) Couldn't find the OS release version. Exiting the script...")
     exit()
 
 if OS_RELEASE in ["debian", "ubuntu"]:  # for Debian based
     GRUB_THEMES_DIR = "/boot/grub/themes/"
     GRUB_UPDATE_CMD = "update-grub"
 else:
-    print("(!) Couldn't find the OS release version. Exiting the script...")
+    print("\n(!) Couldn't find the OS release version. Exiting the script...")
     exit()
 
 # copying theme folder
-print("Copying the theme directory...\n")
+print("\nCopying the theme directory...")
 subprocess.run(f"cp -r {THEME_DIR} {GRUB_THEMES_DIR}", shell=True)
 
 # editing the grub file
+print("\nEditing the GRUB file...")
 THEME_PATH = f"{GRUB_THEMES_DIR}{THEME_DIR}theme.txt"
 change_grub_theme(THEME_PATH)
 
 # updating grub
+print("\nUpdating GRUB...\n")
 subprocess.run(GRUB_UPDATE_CMD, shell=True)
+
+print("\nDedSec GRUB theme successfully installed !!\n")
+exit()
