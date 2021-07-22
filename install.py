@@ -61,11 +61,11 @@ else:
 
 # copying theme folder
 print("Copying the theme directory...\n")
-subprocess.run(f"cp -r {THEME_DIR} {GRUB_THEMES_DIR}")
+subprocess.run(f"cp -r {THEME_DIR} {GRUB_THEMES_DIR}", shell=True)
 
 # editing the grub file
 THEME_PATH = f"{GRUB_THEMES_DIR}{THEME_DIR}theme.txt"
 change_grub_theme(THEME_PATH)
 
 # updating grub
-subprocess.run(GRUB_UPDATE_CMD)
+subprocess.run(GRUB_UPDATE_CMD, shell=True)
