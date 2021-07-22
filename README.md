@@ -39,7 +39,7 @@ sudo update-grub
 There you go all done.
 
 ## 📸 Screenshots
-Coming Soon !
+Adding Soon !
 
 ## 📝 License
 Made with 💖 and it's released under the **GNU General Public License v3.0**.
