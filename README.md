@@ -1,7 +1,7 @@
 # DedSec GRUB Theme
 ![DedSec Logo](/media/logo.jpg)
 
-This theme was created inspired by the awesome fictional hacker group **DedSec** from **Watch Dogs** video game released by **Ubisoft**.
+This theme was created inspired by the awesome fictional hacker group **DedSec** from **Watch Dogs** video game developed by **Ubisoft**.
 
 ## 🗒️ Getting Started
 
@@ -10,7 +10,7 @@ First clone the repository, then navigate into it.
 git clone https://github.com/vandalsoul/dedsec-grub-theme.git
 cd dedsec-grub-theme
 ```
-**[-NOTE-]** *The install.py script is only compatible with **Debian** based linux distributions so far.For others you should stick with the **Maual Installation**.*
+**[ NOTE ] :** *The install.py script is only compatible with **Debian** based linux distributions so far.For others you should stick with the **Maual Installation**.*
 
 Run the *install.py*
 ```shell
