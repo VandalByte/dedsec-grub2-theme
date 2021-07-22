@@ -40,6 +40,7 @@ sudo update-grub
 There you go all done.
 
 ## 📸 Screenshots
+Coming Soon !
 
 ## 📝 License
 Made with 💖 and it's released under the **MIT license**.
