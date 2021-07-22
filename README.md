@@ -1,4 +1,3 @@
-# DedSec GRUB-Theme
 ![Logo](/media/logo.png)
 
 This theme was created inspired by the awesome fictional hacker group **DedSec** from **Watch Dogs** video game developed by **Ubisoft**.
