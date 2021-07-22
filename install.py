@@ -9,7 +9,7 @@
 # Github : https://github.com/vandalsoul/dedsec-grub-theme/
 #
                                                                                             
-
+# imports
 import subprocess
 
 # functions
@@ -32,11 +32,11 @@ def get_os_release() -> str:
 
 def change_grub_theme(grub_theme_path: str) -> None:
     with open("/etc/default/grub", "r") as grub_file:
-        data = grub_file.read().splitlines()
+        data = grub_file.readlines()
         for i, line in enumerate(data):
             if line.startswith("GRUB_THEME"):
                 data.pop(i)  # removing existing line
-                data.insert(i, f'GRUB_THEME="{grub_theme_path}"')  # adding new line
+                data.insert(i, f'GRUB_THEME="{grub_theme_path}"\n')  # adding new line
 
     with open("/etc/default/grub", "w") as grub_file:
         grub_file.writelines(data)
