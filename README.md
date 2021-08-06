@@ -42,4 +42,4 @@ There you go all done.
 ![Screenshot](/media/screenshot.png)
 
 ## 📝 License
-Made with 💖 and it's released under the **GNU General Public License v3.0**.
+Made with 💖 and it's released under the **MIT** license.
