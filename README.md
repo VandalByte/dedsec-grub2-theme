@@ -9,7 +9,7 @@ This theme was created, inspired by the awesome fictional hacker group **DedSec*
 git clone https://github.com/vandalsoul/dedsec-grub-theme.git
 cd dedsec-grub-theme
 ```
-**[ NOTE ] :** *The install.py script is only compatible with **Debian** based linux distributions so far. For others you should stick with the **Maual Installation**.*
+> **[ NOTE ] :** *The install.py script is only compatible with **Debian** based linux distributions so far. For others you should stick with the **Maual Installation**.*
 
 - Run the *install.py*
 ```shell
