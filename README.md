@@ -4,25 +4,25 @@ This theme was created, inspired by the awesome fictional hacker group **DedSec*
 
 ## ✨ Getting Started
 
-First clone the repository, then navigate into it.
+- First clone the repository, then navigate into it.
 ```shell
 git clone https://github.com/vandalsoul/dedsec-grub-theme.git
 cd dedsec-grub-theme
 ```
 **[ NOTE ] :** *The install.py script is only compatible with **Debian** based linux distributions so far. For others you should stick with the **Maual Installation**.*
 
-Run the *install.py*
+- Run the *install.py*
 ```shell
 sudo python3 install.py
 ```
 
 ## ⚙️ Manual Installation
 
-Copy the theme directory.
+- Copy the theme directory.
 ```shell
 sudo cp -r dedsec /boot/grub/themes/
 ```
-Make changes to the GRUB config file
+- Make changes to the GRUB config file
 
 *I'm using nano editor here, you can use the one of your choice.*
 ```shell
@@ -32,7 +32,7 @@ Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub/themes/ded
 
 On your keyboard press `Ctrl + O` then press `Enter`, the changes will be saved.
 
-Finally, update the grub.
+- Finally, update the grub.
 ```shell
 sudo update-grub
 ```
