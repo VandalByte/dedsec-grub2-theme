@@ -40,6 +40,7 @@ There you go all done.
 
 ## 📸 Screenshots
 ![Screenshot](/media/screenshot.png)
+![Screnshot](/media/screenshot.jpg)
 
 ## 📝 License
 Made with 💖 and it's released under the **MIT** license.
