@@ -1,22 +1,27 @@
 ![Logo](/media/logo.png)
 
 This theme was created, inspired by the awesome fictional hacker group **DedSec** from **Watch Dogs** video game developed by **Ubisoft**.
-
+***
 ## ✨ Getting Started
 
-- First clone the repository, then navigate into it.
+First clone the repository, then navigate into it.
 ```shell
 git clone https://github.com/vandalsoul/dedsec-grub-theme.git
 cd dedsec-grub-theme
 ```
+***
+## ⚙️ Installation
+
+### (~) Using Installation Script
+
 > **[ NOTE ] :** *The install.py script is only compatible with **Debian** based linux distributions so far. For others you should stick with the **Maual Installation**.*
 
-- Run the *install.py*
+Run the *install.py*
 ```shell
 sudo python3 install.py
 ```
 
-## ⚙️ Manual Installation
+### (~) Manual Installation
 
 - Copy the theme directory.
 ```shell
@@ -37,10 +42,9 @@ On your keyboard press `Ctrl + O` then press `Enter`, the changes will be saved.
 sudo update-grub
 ```
 There you go all done.
-
+***
 ## 📸 Screenshots
-
-![Screnshot](/media/screenshot.jpg)
-
+![Screenshot](/media/screenshot.png)
+***
 ## 📝 License
 Made with 💖 and it's released under the **MIT** license.
