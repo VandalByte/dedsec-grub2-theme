@@ -39,7 +39,7 @@ sudo update-grub
 There you go all done.
 
 ## 📸 Screenshots
-![Screenshot](/media/screenshot.png)
+
 ![Screnshot](/media/screenshot.jpg)
 
 ## 📝 License
