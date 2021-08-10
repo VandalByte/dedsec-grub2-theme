@@ -7,7 +7,7 @@ This theme was created, inspired by the awesome fictional hacker group **DedSec*
 First clone the repository, then navigate into it.
 ```shell
 git clone https://github.com/vandalsoul/dedsec-grub2-theme.git
-cd dedsec-grub-theme
+cd dedsec-grub2-theme
 ```
 ***
 ## ⚙️ Installation
