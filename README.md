@@ -1,5 +1,7 @@
 ![Logo](/media/logo.png)
 
+![GitHub](https://img.shields.io/github/license/vandalsoul/dedsec-grub2-theme?style=for-the-badge)
+
 This theme was created, inspired by the fictional hacker group **DedSec** from **Watch Dogs** video game developed by **Ubisoft**.
 ***
 ## ✨ Getting Started
