@@ -1,4 +1,4 @@
-![Logo](/media/logo.png)
+![Logo](/media/llogo.png)
 
 ![GitHub](https://img.shields.io/github/license/vandalsoul/dedsec-grub2-theme?style=for-the-badge)
 
