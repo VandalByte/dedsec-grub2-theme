@@ -31,13 +31,13 @@ sudo cp -r dedsec /boot/grub/themes/
 ```
 - Make changes to the GRUB config file
 
-*I'm using nano editor here, you can use the one of your choice.*
+*I'm using `nano editor` here, you can use the one of your choice.*
 ```shell
 sudo nano /etc/default/grub
 ```
 Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub/themes/dedsec/theme.txt"`
 
-On your keyboard press `Ctrl + O` then press `Enter`, the changes will be saved.
+On your keyboard press `Ctrl + O` then press `Enter`, the changes will be saved and press `Ctrl + X` to exit nano.
 
 - Finally, update the grub.
 ```shell
