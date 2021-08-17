@@ -11,10 +11,10 @@ First clone the repository, then navigate into it.
 git clone https://github.com/vandalsoul/dedsec-grub2-theme.git
 cd dedsec-grub2-theme
 ```
-***
+
 ## ⚙️ Installation
 
-### (~) Using Installation Script
+### ➡ Using Installation Script
 
 > **[ NOTE ] :** *The install.py script is only compatible with **Debian** based linux distributions so far. For others you should stick with the **Maual Installation**.*
 
@@ -23,7 +23,7 @@ Run the *install.py*
 sudo python3 install.py
 ```
 
-### (~) Manual Installation
+### ➡ Manual Installation
 
 - Copy the theme directory.
 ```shell
@@ -44,9 +44,9 @@ On your keyboard press `Ctrl + O` then press `Enter`, the changes will be saved.
 sudo update-grub
 ```
 There you go all done.
-***
+
 ## 📸 Screenshot
 ![Screenshot](/media/screenshot.png)
-***
+
 ## 📝 License
 Made with 💖 and it's released under the **MIT** license.
