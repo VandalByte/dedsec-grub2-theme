@@ -65,7 +65,7 @@ It is mainly because of your grub configuration file ( *located at /etc/default/
 
 Default grub configuration will be different for every linux distribution. So inorder for this to work you will have to make some tweaks in your grub configuration file.
 
-This is the [GRUB config](www.github.com) file for MX Linux 19.4
+This is the [GRUB config](/media/mx-linux-grub-config-file.txt) file for MX Linux 19.4
 
 **NOTE: This is only for referance and not for copy-pasting since it is a Debian-based distro, yours might be different and can mess up the boot if copy-pasted.**
 
