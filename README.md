@@ -21,13 +21,13 @@ cd dedsec-grub2-theme
 
 ## ⚙️ Installation
 
-### ➡ Using Installation Script
+### ✅ Using Installation Script
 Run the *install.py*
 ```shell
 sudo python3 install.py
 ```
 
-### ➡ Manual Installation
+### ✅ Manual Installation
 
 #### 1️⃣ Copy the theme directory.
 ```shell
@@ -59,7 +59,7 @@ There you go all done.
 ![Screenshot](/media/screenshot.png)
 
 ## 💡 Fix-it Tips
-> **( Q 1 )  GRUB theme doesn't show up after installing the theme?**
+**( Q 1 )  GRUB theme doesn't show up after installing the theme?**
 
 It is mainly because of your grub configuration file ( *located at /etc/default/grub* ).
 
