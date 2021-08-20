@@ -8,7 +8,7 @@ This theme was created, inspired by the fictional hacker group **DedSec** from *
 - Getting Started
 - Installation
 - Screenshot
-- Tips
+- Fix-it Tips
 - License
 
 ## ✨ Getting Started
@@ -58,7 +58,7 @@ There you go all done.
 ## 📸 Screenshot
 ![Screenshot](/media/screenshot.png)
 
-## 💡 Tips
+## 💡 Fix-it Tips
 `( Q 1 ) GRUB theme doesn't show up after installing the theme?`
 
 It is mainly because of your grub configuration file ( *located at /etc/default/grub* ).
