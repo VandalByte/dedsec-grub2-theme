@@ -7,9 +7,9 @@
 
 desktop-image: "background.png"
 terminal-font: "Terminus (TTF) Bold 18"
-terminal-left: "15%"
+terminal-left: "20%"
 terminal-top: "35%"
-terminal-width: "70%"
+terminal-width: "60%"
 terminal-height: "40%"
 terminal-box: "menu_bkg_*.png"
 
@@ -27,7 +27,7 @@ terminal-box: "menu_bkg_*.png"
     selected_item_color = "#35c700"
 	icon_width = 32
     icon_height = 32
-    item_icon_space = 15
+    item_icon_space = 10
     item_height = 40
     item_padding = 9
     item_spacing = 10
@@ -45,7 +45,7 @@ terminal-box: "menu_bkg_*.png"
     width = 50%
     top = 75%
     height = 20
-    text = "%d seconds left !!"
+    text = "$ brute-forcing into the system in %d"
     text_color = "#ffffff"
     font = "Terminus (TTF) Bold 20"
     bar_style = "progress_bar_*.png"
