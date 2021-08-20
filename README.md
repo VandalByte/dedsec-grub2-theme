@@ -29,11 +29,11 @@ sudo python3 install.py
 
 ### ➡ Manual Installation
 
-#### ( 1 ) Copy the theme directory.
+#### 1️⃣ Copy the theme directory.
 ```shell
 sudo cp -r dedsec /boot/grub/themes/
 ```
-#### ( 2 ) Make changes to the GRUB config file.
+#### 2️⃣ Make changes to the GRUB config file.
 
 *I'm using `nano editor` here, you can use the one of your choice.*
 ```shell
@@ -43,7 +43,7 @@ Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub/themes/ded
 
 On your keyboard press `Ctrl + O` then press `Enter`, the changes will be saved and press `Ctrl + X` to exit nano.
 
-#### ( 3 ) Finally, update the grub.
+#### 3️⃣ Finally, update the grub.
 
 - **( Debian | Ubuntu | Arch )**
 ```shell
@@ -59,7 +59,7 @@ There you go all done.
 ![Screenshot](/media/screenshot.png)
 
 ## 💡 Fix-it Tips
-`( Q 1 ) GRUB theme doesn't show up after installing the theme?`
+> **( Q 1 )  GRUB theme doesn't show up after installing the theme?**
 
 It is mainly because of your grub configuration file ( *located at /etc/default/grub* ).
 
