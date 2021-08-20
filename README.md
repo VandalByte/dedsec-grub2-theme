@@ -5,11 +5,11 @@
 This theme was created, inspired by the fictional hacker group **DedSec** from **Watch Dogs** video game developed by **Ubisoft**.
 
 ## 📙 Table of Contents
-- [Getting Started](http://github.com)
-- [Installation](http://github.com)
-- [Screenshot](http://github.com)
-- [Fix-it Tips](http://github.com)
-- [License](http://github.com)
+- [Getting Started](https://github.com/vandalsoul/dedsec-grub2-theme/blob/update/README.md#-getting-started)
+- [Installation](https://github.com/vandalsoul/dedsec-grub2-theme/blob/update/README.md#%EF%B8%8F-installation)
+- [Screenshot](https://github.com/vandalsoul/dedsec-grub2-theme/blob/update/README.md#-screenshot)
+- [Fix-it Tips](https://github.com/vandalsoul/dedsec-grub2-theme/blob/update/README.md#-fix-it-tips)
+- [License](https://github.com/vandalsoul/dedsec-grub2-theme/blob/update/README.md#-license)
 
 ## ✨ Getting Started
 
