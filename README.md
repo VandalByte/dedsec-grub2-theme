@@ -5,11 +5,11 @@
 This theme was created, inspired by the fictional hacker group **DedSec** from **Watch Dogs** video game developed by **Ubisoft**.
 
 ## 📙 Table of Contents
-- Getting Started
-- Installation
-- Screenshot
-- Fix-it Tips
-- License
+- [Getting Started](http://github.com)
+- [Installation](http://github.com)
+- [Screenshot](http://github.com)
+- [Fix-it Tips](http://github.com)
+- [License](http://github.com)
 
 ## ✨ Getting Started
 
