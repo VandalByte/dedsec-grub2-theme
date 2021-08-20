@@ -67,7 +67,7 @@ Default grub configuration will be different for every linux distribution. So in
 
 This is the [GRUB config](/media/mx-linux-grub-config-file.txt) file for MX Linux 19.4
 
-**NOTE: This is only for referance and not for copy-pasting since it is a Debian-based distro, yours might be different and can mess up the boot if copy-pasted.**
+**[ WARNING ] This is only for referance and not for copy-pasting since it is a Debian-based distro, yours might be different and can mess up the boot if copy-pasted.**
 
 ## 📝 License
 Made with 💖 and it's released under the **MIT** license.
