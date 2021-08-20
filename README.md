@@ -45,11 +45,11 @@ On your keyboard press `Ctrl + O` then press `Enter`, the changes will be saved 
 
 #### 3️⃣ Finally, update the grub.
 
-- **( Debian | Ubuntu | Arch )**
+- **Debian | Ubuntu | Arch**
 ```shell
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
-- **( Fedora | Redhat )**
+- **Fedora | Redhat**
 ```shell
 sudo grub2-mkconfig -o /etc/grub2.cfg
 ```
@@ -59,7 +59,7 @@ There you go all done.
 ![Screenshot](/media/screenshot.png)
 
 ## 💡 Fix-it Tips
-**( Q 1 )  GRUB theme doesn't show up after installing the theme?**
+**💠  GRUB theme doesn't show up after installing the theme?**
 
 It is mainly because of your grub configuration file ( *located at /etc/default/grub* ).
 
