@@ -7,7 +7,7 @@ This theme was created, inspired by the fictional hacker group **DedSec** from *
 ## 📙 Table of Contents
 - [Getting Started](https://github.com/vandalsoul/dedsec-grub2-theme#-getting-started)
 - [Installation](https://github.com/vandalsoul/dedsec-grub2-theme#%EF%B8%8F-installation)
-- [Screenshot](https://github.com/vandalsoul/dedsec-grub2-theme#-screenshot)
+- [Preview](https://github.com/vandalsoul/dedsec-grub2-theme#-preview)
 - [Fix-it Tips](https://github.com/vandalsoul/dedsec-grub2-theme#-fix-it-tips)
 - [License](https://github.com/vandalsoul/dedsec-grub2-theme#-license)
 
@@ -55,19 +55,19 @@ sudo grub2-mkconfig -o /etc/grub2.cfg
 ```
 There you go all done.
 
-## 📸 Screenshot
+## 📸 Preview
 ![Screenshot](/media/screenshot.png)
 
 ## 💡 Fix-it Tips
-**💠  GRUB theme doesn't show up after installing the theme?**
+**⭕ GRUB theme doesn't show up after installing the theme?**
 
-It is mainly because of your grub configuration file ( *located at /etc/default/grub* ).
-
-Default grub configuration will be different for every linux distribution. So inorder for this to work you will have to make some tweaks in your grub configuration file.
-
-This is the [GRUB config](/media/mx-linux-grub-config-file.txt) file for MX Linux 19.4
-
-**[ WARNING ] : This is only for referance and not for copy-pasting since it is a Debian-based distro, yours might be different and can mess up the boot if copy-pasted.**
+> It is mainly because of your grub configuration file ( *located at /etc/default/grub* ).
+> 
+> Default grub configuration will be different for every linux distribution. So inorder for this to work you will have to make some tweaks in your grub configuration file.
+>
+> This is the [GRUB config](/media/mx-linux-grub-config-file.txt) file for MX Linux 19.4
+>
+> **[ WARNING ] : This is only for referance and not for copy-pasting since it is a Debian-based distro, yours might be different and can mess up the boot if copy-pasted.**
 
 ## 📝 License
 Made with 💖 and it's released under the **MIT** license.
