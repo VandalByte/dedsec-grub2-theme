@@ -59,7 +59,7 @@ There you go all done.
 ![Screenshot](/media/screenshot.png)
 
 ## 💡 Fix-it Tips
-**⭕ GRUB theme doesn't show up after installing the theme?**
+**Q! GRUB theme doesn't show up after installing the theme?**
 
 > It is mainly because of your grub configuration file ( *located at /etc/default/grub* ).
 > 
