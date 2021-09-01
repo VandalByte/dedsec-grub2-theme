@@ -22,7 +22,7 @@ cd dedsec-grub2-theme
 ## ⚙️ Installation
 
 ### ✅ Using Installation Script
-Run the *install.py*
+Run the `install.py`
 ```shell
 sudo python3 install.py
 ```
