@@ -59,15 +59,21 @@ There you go all done.
 ![Screenshot](/media/screenshot.png)
 
 ## 💡 Fix-it Tips
-**Q! GRUB theme doesn't show up after installing the theme?**
+*Click to view...*
 
-> It is mainly because of your grub configuration file ( *located at /etc/default/grub* ).
-> 
-> Default grub configuration will be different for every linux distribution. So inorder for this to work you will have to make some tweaks in your grub configuration file.
->
-> This is the [GRUB config](/media/mx-linux-grub-config-file.txt) file for MX Linux 19.4
->
-> **[ WARNING ] : This is only for referance and not for copy-pasting since it is a Debian-based distro, yours might be different and can mess up the boot if copy-pasted.**
+<details>
+  <summary><b>Q! GRUB theme doesn't show up after installing the theme?</b></summary>
+  <br>
+  
+ *It is mainly because of your grub config file ( **located at /etc/default/grub** ).*
+  
+ *Default grub config will be different for every linux distro. So inorder for this to work you will have to make some tweaks in your grub config file.*
+
+ *This is the [GRUB config](/media/mx-linux-grub-config-file.txt) file for MX Linux 19.4*
+
+ **[ WARNING ] : This is only for referance and not for copy-pasting since it is a Debian-based distro, yours might be different and can mess up the boot if copy-pasted.**
+  
+</details>
 
 ## 📝 License
 Made with 💖 and it's released under the **MIT** license.
