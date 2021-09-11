@@ -7,6 +7,7 @@ This theme was created, inspired by the fictional hacker group **DedSec** from *
 ## 📙 Table of Contents
 - [Getting Started](https://github.com/vandalsoul/dedsec-grub2-theme#-getting-started)
 - [Installation](https://github.com/vandalsoul/dedsec-grub2-theme#%EF%B8%8F-installation)
+- [Donate](https://github.com/vandalsoul/dedsec-grub2-theme#-donate)
 - [Preview](https://github.com/vandalsoul/dedsec-grub2-theme#-preview)
 - [Fix-it Tips](https://github.com/vandalsoul/dedsec-grub2-theme#-fix-it-tips)
 - [License](https://github.com/vandalsoul/dedsec-grub2-theme#-license)
@@ -54,6 +55,11 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 sudo grub2-mkconfig -o /etc/grub2.cfg
 ```
 There you go all done.
+
+## 💰 Donate
+If you like my work please consider donating, and it would really help me a lot, thanks 😇
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vandalsoul)
 
 ## 📸 Preview
 ![Screenshot](/media/screenshot.png)
