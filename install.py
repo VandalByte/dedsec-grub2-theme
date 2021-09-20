@@ -96,5 +96,5 @@ if __name__ == "__main__":
         main()
     except Exception:
         print(
-            "\n(!) An unexpected error occured while running the script. Installation was unsuccessful ..."
+            "\n(!) An unexpected error occured while running the script. Installation FAILED ..."
         )
