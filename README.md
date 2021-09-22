@@ -75,7 +75,7 @@ There you go all done.
   
  *Default grub config will be different for every linux distro. So inorder for this to work you will have to make some tweaks in your grub config file.*
 
- *This is the [GRUB config](/media/mx-linux-grub-config-file.txt) file for MX Linux 19.4*
+ *This is the [GRUB config](https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/mx-linux-grub-config-file.txt) file for MX Linux 19.4*
 
  **[ WARNING ❌ ] : This is only for referance and not for copy-pasting since it is a Debian-based distro, yours might be different and can mess up the boot.**
   
