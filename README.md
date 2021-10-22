@@ -80,10 +80,15 @@ There you go all done.
   sudo nano /etc/default/grub
   ```
   Change the line
+  
   ```GRUB_TERMINAL_OUTPUT=console``` 
+  
   to this (comment it out) 
+  
   ```#GRUB_TERMINAL_OUTPUT=console```
+  
   And save the file
+  
   Then run the following command 
   ```
   sudo grub2-mkconfig -o /boot/grub2/grub.cfg
