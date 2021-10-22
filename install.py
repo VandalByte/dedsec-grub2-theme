@@ -65,7 +65,7 @@ def main():
     elif os.path.exists("/boot/grub2/"):
 
         GRUB_THEMES_DIR = "/boot/grub2/themes/"
-        GRUB_UPDATE_CMD = "grub2-mkconfig -o /etc/grub2.cfg"
+        GRUB_UPDATE_CMD = "grub2-mkconfig -o /boot/grub2/grub.cfg"
 		
         if not os.path.exists(GRUB_THEMES_DIR):
             os.mkdir(GRUB_THEMES_DIR)
