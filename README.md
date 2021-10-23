@@ -42,6 +42,8 @@ sudo nano /etc/default/grub
 ```
 Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub/themes/dedsec/theme.txt"`
 
+> **Fedora users also need to change the line `GRUB_TERMINAL_OUTPUT=console` to this *(comment it out)* `#GRUB_TERMINAL_OUTPUT=console`**
+
 On your keyboard press `Ctrl + O` then press `Enter`, the changes will be saved and press `Ctrl + X` to exit nano.
 
 #### 3️⃣ Finally, update the grub.
