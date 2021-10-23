@@ -4,7 +4,7 @@
 
 This theme was created, inspired by the fictional hacker group **DedSec** from **Watch Dogs** video game developed by **Ubisoft**.
 
-**📢 Coming UPDATE : New theme variants will be added**
+**📢 Upcoming UPDATE : New theme variants will be added**
 
 ## 📙 Table of Contents
 - [Getting Started](https://github.com/vandalsoul/dedsec-grub2-theme#-getting-started)
