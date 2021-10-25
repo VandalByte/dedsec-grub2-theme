@@ -1,0 +1,6 @@
+# FULL CHANGELOG
+
+### 📢 Update 2.0 @ ( 08/20/2021 )
+
+**Implemented enhancements:**
+- *Graphical update of background.png.*
