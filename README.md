@@ -1,8 +1,8 @@
 ![logo](/media/logo.png)
 
 <p align="center">
-  <img alt="undefined" src="https://img.shields.io/github/license/vandalsoul/dedsec-grub2-theme?style=for-the-badge&logo=github">
-  <a href="https://www.gnome-look.org/p/1569525"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github"></a>
+  <img alt="undefined" src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=github">
+  <a href="https://www.gnome-look.org/p/1569525"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-green?style=for-the-badge&logo=github"></a>
 </p>
 
 <b>DedSec theme was created, inspired by the fictional hacker group DedSec from Watch Dogs video game developed by Ubisoft.</b>
