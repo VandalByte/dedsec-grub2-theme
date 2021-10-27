@@ -15,7 +15,6 @@
 - [Donate](https://github.com/vandalsoul/dedsec-grub2-theme#-donate)
 - [Preview](https://github.com/vandalsoul/dedsec-grub2-theme#-preview)
 - [Fix-it Tips](https://github.com/vandalsoul/dedsec-grub2-theme#-fix-it-tips)
-- [License](https://github.com/vandalsoul/dedsec-grub2-theme#-license)
 
 ## ✨ Getting Started
 
