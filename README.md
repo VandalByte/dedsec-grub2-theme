@@ -1,7 +1,7 @@
 ![logo](/media/logo.png)
 
 <p align="center">
-  <img alt="undefined" src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=github">
+  <a href="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/LICENSE"><img alt="undefined" src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=github"></a>
   <a href="https://www.gnome-look.org/p/1569525"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-green?style=for-the-badge&logo=github"></a>
 </p>
 
