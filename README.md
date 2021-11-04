@@ -55,7 +55,7 @@ sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 There you go all done.
 
 ## 💰 Donate
-**Hey everyone 🙋‍♂️ if you wanna support me on my theme making campaign then feel free to buy me a coffee ☕ anytime you wish...**
+**Hey everyone 🙋‍♂️ if you wanna support me on my theme making campaign then feel free to buy me a cup of coffee ☕ anytime you wish...**
 
 <a href="https://www.buymeacoffee.com/vandalsoul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
