@@ -10,14 +10,13 @@
 
 ## ⚙️ Installation
 
-First clone the repository, then navigate into it.
+#### 1️⃣ First clone the repository, then navigate into it.
 ```shell
 git clone https://github.com/vandalsoul/dedsec-grub2-theme.git
 cd dedsec-grub2-theme
 ```
 
-### ✅ Using Installation Script
-Run the `install.py`
+#### 2️⃣ Run the `install.py`
 ```shell
 sudo python3 install.py
 ```
@@ -59,7 +58,13 @@ There you go all done.
 <a href="https://www.buymeacoffee.com/vandalsoul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## 📸 Preview
-![Screenshot](/media/screenshot.png)
+
+<p align="center">
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/screenshot.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/screenshot.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/screenshot.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/screenshot.png" />
+</p>
 
 ## 📝 License
 Made with 💖 and it's released under the **MIT** license.
