@@ -8,8 +8,6 @@
   <a href="https://www.pling.com/p/1569525"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-green?style=for-the-badge&logo=github"></a>
 </p>
 
-**📢 Upcoming UPDATE : New theme variants will be added**
-
 ## ⚙️ Installation
 
 First clone the repository, then navigate into it.
@@ -62,33 +60,6 @@ There you go all done.
 
 ## 📸 Preview
 ![Screenshot](/media/screenshot.png)
-
-## 💡 Fix-it Tips
-*Click to view...*
-
-<details>
-  <summary><b>(❓) GRUB theme doesn't show up after installing the theme? [ Fedora ]</b></summary>
-  <br>
-  
- *It is mainly because of your grub config file ( **located at /etc/default/grub** ).*
-  
- *Default grub config will be different for every linux distro. So inorder for this to work you will have to make some tweaks in your grub config file.*
-  
-  *To fix this, open the file `/etc/default/grub`*
-  ```
-  sudo nano /etc/default/grub
-  ```
-  *Change the line `GRUB_TERMINAL_OUTPUT=console` to this (comment it out) `#GRUB_TERMINAL_OUTPUT=console`*
-  
-  *And save the file*
-  
-  *Then run the following command*
-  ```
-  sudo grub2-mkconfig -o /boot/grub2/grub.cfg
-  ```
-  *Now restart your computer the grub theme will show up...*
-  
-</details>
 
 ## 📝 License
 Made with 💖 and it's released under the **MIT** license.
