@@ -24,34 +24,74 @@ sudo python3 install.py
 ```
 
 ### ✅ Manual Installation
+*Click to view...*
+<details>
+ <summary><b>Debian 💢 Ubuntu 💢 Arch</b></summary>
+ 
+  #### 1️⃣ Download your favourite version of the theme from [**Pling**](https://www.pling.com/p/1603282/).
 
-#### 1️⃣ Copy the theme directory.
-```shell
-sudo cp -r dedsec /boot/grub/themes/
-```
-#### 2️⃣ Make changes to the GRUB config file.
+  Now extract your downloaded .zip file.
 
-*I'm using `nano editor` here, you can use the one of your choice.*
-```shell
-sudo nano /etc/default/grub
-```
-Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub/themes/dedsec/theme.txt"`
+  Either manually extract it or use the command below. ( *Here I'm using debian version of my theme as an example* )
+  ```shell
+  unzip dark-matter-debian.zip
+  ```
+  *The rest of the commands are the same for all theme styles.*
 
-> **Fedora users also need to change the line `GRUB_TERMINAL_OUTPUT=console` to this *(comment it out)* `#GRUB_TERMINAL_OUTPUT=console`**
+  #### 2️⃣ Copy the theme directory.
+  ```shell
+  sudo cp -r dark-matter /boot/grub/themes/
+  ```
+  #### 3️⃣ Make changes to the GRUB config file.
 
-On your keyboard press `Ctrl + O` then press `Enter`, the changes will be saved and press `Ctrl + X` to exit nano.
+  ```shell
+  sudo nano /etc/default/grub
+  ```
+  Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub/themes/dark-matter/theme.txt"`
 
-#### 3️⃣ Finally, update the grub.
+  Then save the file.
 
-- **Debian | Ubuntu | Arch**
-```shell
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-```
-- **Fedora | Redhat**
-```shell
-sudo grub2-mkconfig -o /boot/grub2/grub.cfg
-```
-There you go all done.
+  #### 4️⃣ Finally, update the grub.
+  ```shell
+  sudo grub-mkconfig -o /boot/grub/grub.cfg
+  ```
+  Now the theme should be installed successfully, enjoy !!
+</details>
+
+<details>
+ <summary><b>Fedora 💢 Redhat</b></summary>
+ 
+  #### 1️⃣ Download your favourite version of the theme from [**Pling**](https://www.pling.com/p/1603282/).
+
+  Now extract your downloaded .zip file.
+
+  Either manually extract it or use the command below. ( *Here I'm using debian version of my theme as an example* )
+  ```shell
+  unzip dark-matter-debian.zip
+  ```
+  *The rest of the commands are the same for all theme styles.*
+
+  #### 2️⃣ Copy the theme directory.
+  ```shell
+  sudo cp -r dark-matter /boot/grub2/themes/
+  ```
+  #### 3️⃣ Make changes to the GRUB config file.
+
+  ```shell
+  sudo nano /etc/default/grub
+  ```
+  Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub2/themes/dark-matter/theme.txt"`
+ 
+  Change the line `GRUB_TERMINAL_OUTPUT=console` to this *(comment it out)* `#GRUB_TERMINAL_OUTPUT=console`
+
+  Then save the file.
+
+  #### 4️⃣ Finally, update the grub.
+  ```shell
+  sudo grub2-mkconfig -o /boot/grub2/grub.cfg
+  ```
+  Now restart your computer the grub theme should be installed successfully, enjoy !!
+</details>
 
 ## 💰 Donate
 
