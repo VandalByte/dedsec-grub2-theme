@@ -10,6 +10,8 @@
 
 ## ⚙️ Installation
 
+### ✅ Using Installation Script
+
 #### 1️⃣ First clone the repository, then navigate into it.
 ```shell
 git clone https://github.com/vandalsoul/dedsec-grub2-theme.git
