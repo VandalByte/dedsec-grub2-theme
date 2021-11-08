@@ -26,7 +26,7 @@ sudo python3 install.py
 ### ✅ Manual Installation
 *Click to view...*
 <details>
- <summary><b>Debian 💢 Ubuntu 💢 Arch</b></summary>
+ <summary><b>Debian 💀 Ubuntu 💀 Arch</b></summary>
  
   #### 1️⃣ Download your favourite version of the theme from [**Pling**](https://www.pling.com/p/1603282/).
 
@@ -59,7 +59,7 @@ sudo python3 install.py
 </details>
 
 <details>
- <summary><b>Fedora 💢 Redhat</b></summary>
+ <summary><b>Fedora 💀 Redhat</b></summary>
  
   #### 1️⃣ Download your favourite version of the theme from [**Pling**](https://www.pling.com/p/1603282/).
 
