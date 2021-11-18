@@ -8,51 +8,90 @@
   <a href="https://www.pling.com/p/1569525"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-green?style=for-the-badge&logo=github"></a>
 </p>
 
-**📢 Upcoming UPDATE : New theme variants will be added**
-
 ## ⚙️ Installation
 
-First clone the repository, then navigate into it.
+### ✅ Using Installation Script
+
+#### 1️⃣ First clone the repository, then navigate into it.
 ```shell
 git clone https://github.com/vandalsoul/dedsec-grub2-theme.git
 cd dedsec-grub2-theme
 ```
 
-### ✅ Using Installation Script
-Run the `install.py`
+#### 2️⃣ Run the `install.py`
 ```shell
 sudo python3 install.py
 ```
 
 ### ✅ Manual Installation
+*Click to view...*
+<details>
+ <summary><b>Debian 💀 Ubuntu 💀 Arch</b></summary>
+ 
+  #### 1️⃣ Download your favourite version of the theme from [**Pling**](https://www.pling.com/p/1603282/).
 
-#### 1️⃣ Copy the theme directory.
-```shell
-sudo cp -r dedsec /boot/grub/themes/
-```
-#### 2️⃣ Make changes to the GRUB config file.
+  Now extract your downloaded .zip file.
 
-*I'm using `nano editor` here, you can use the one of your choice.*
-```shell
-sudo nano /etc/default/grub
-```
-Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub/themes/dedsec/theme.txt"`
+  Either manually extract it or use the command below. ( *Here I'm using 'brainwash' version of my theme as an example* )
+  ```shell
+  unzip dedsec-brainwash.zip
+  ```
+  *The rest of the commands are the same for all the theme styles.*
 
-> **Fedora users also need to change the line `GRUB_TERMINAL_OUTPUT=console` to this *(comment it out)* `#GRUB_TERMINAL_OUTPUT=console`**
+  #### 2️⃣ Copy the theme directory.
+  ```shell
+  sudo cp -r dedsec /boot/grub/themes/
+  ```
+  #### 3️⃣ Make changes to the GRUB config file.
 
-On your keyboard press `Ctrl + O` then press `Enter`, the changes will be saved and press `Ctrl + X` to exit nano.
+  ```shell
+  sudo nano /etc/default/grub
+  ```
+  Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub/themes/dedsec/theme.txt"`
 
-#### 3️⃣ Finally, update the grub.
+  Then save the file.
 
-- **Debian | Ubuntu | Arch**
-```shell
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-```
-- **Fedora | Redhat**
-```shell
-sudo grub2-mkconfig -o /boot/grub2/grub.cfg
-```
-There you go all done.
+  #### 4️⃣ Finally, update the grub.
+  ```shell
+  sudo grub-mkconfig -o /boot/grub/grub.cfg
+  ```
+  Now the theme should be installed successfully, enjoy !!
+</details>
+
+<details>
+ <summary><b>Fedora 💀 Redhat</b></summary>
+ 
+  #### 1️⃣ Download your favourite version of the theme from [**Pling**](https://www.pling.com/p/1569525).
+
+  Now extract your downloaded .zip file.
+
+  Either manually extract it or use the command below. ( *Here I'm using 'brainwash' version of my theme as an example* )
+  ```shell
+  unzip dedsec-brainwash.zip
+  ```
+  *The rest of the commands are the same for all the theme styles.*
+
+  #### 2️⃣ Copy the theme directory.
+  ```shell
+  sudo cp -r dedsec /boot/grub2/themes/
+  ```
+  #### 3️⃣ Make changes to the GRUB config file.
+
+  ```shell
+  sudo nano /etc/default/grub
+  ```
+  Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub2/themes/dedsec/theme.txt"`
+ 
+  Change the line `GRUB_TERMINAL_OUTPUT=console` to this *(comment it out)* `#GRUB_TERMINAL_OUTPUT=console`
+
+  Then save the file.
+
+  #### 4️⃣ Finally, update the grub.
+  ```shell
+  sudo grub2-mkconfig -o /boot/grub2/grub.cfg
+  ```
+  Now restart your computer the grub theme should be installed successfully, enjoy !!
+</details>
 
 ## 💰 Donate
 
@@ -61,34 +100,23 @@ There you go all done.
 <a href="https://www.buymeacoffee.com/vandalsoul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## 📸 Preview
-![Screenshot](/media/screenshot.png)
 
-## 💡 Fix-it Tips
-*Click to view...*
-
-<details>
-  <summary><b>(❓) GRUB theme doesn't show up after installing the theme? [ Fedora ]</b></summary>
-  <br>
-  
- *It is mainly because of your grub config file ( **located at /etc/default/grub** ).*
-  
- *Default grub config will be different for every linux distro. So inorder for this to work you will have to make some tweaks in your grub config file.*
-  
-  *To fix this, open the file `/etc/default/grub`*
-  ```
-  sudo nano /etc/default/grub
-  ```
-  *Change the line `GRUB_TERMINAL_OUTPUT=console` to this (comment it out) `#GRUB_TERMINAL_OUTPUT=console`*
-  
-  *And save the file*
-  
-  *Then run the following command*
-  ```
-  sudo grub2-mkconfig -o /boot/grub2/grub.cfg
-  ```
-  *Now restart your computer the grub theme will show up...*
-  
-</details>
+<p><b>NOTE : <i>The theme-style name tags present in the preview are not there in the actual theme...</i></b></p>
+<p align="center">
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-compact.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-brainwash.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-lovetrap.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-spam.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-spyware.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-redskull.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-firewall.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-strike.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-wannacry.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-legion.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-unite.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-wrench.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-hype.png" />
+</p>
 
 ## 📝 License
 Made with 💖 and it's released under the **MIT** license.
