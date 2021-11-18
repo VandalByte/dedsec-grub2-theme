@@ -8,6 +8,8 @@
   <a href="https://www.pling.com/p/1569525"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-green?style=for-the-badge&logo=github"></a>
 </p>
 
+## 📢 UPDATE 3.0 IS HERE... 🥳🥳🥳 
+
 ## ⚙️ Installation
 
 ### ✅ Using Installation Script
