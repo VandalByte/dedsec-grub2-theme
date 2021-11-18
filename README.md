@@ -101,6 +101,7 @@ sudo python3 install.py
 
 ## 📸 Preview
 
+<p><b>NOTE : <i>The theme-style name tags present in the preview are not there in the actual theme...</i></b></p>
 <p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-compact.png" />
   <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-brainwash.png" />
