@@ -32,22 +32,22 @@ sudo python3 install.py
 
   Now extract your downloaded .zip file.
 
-  Either manually extract it or use the command below. ( *Here I'm using debian version of my theme as an example* )
+  Either manually extract it or use the command below. ( *Here I'm using 'brainwash' version of my theme as an example* )
   ```shell
-  unzip dark-matter-debian.zip
+  unzip dedsec-brainwash.zip
   ```
-  *The rest of the commands are the same for all theme styles.*
+  *The rest of the commands are the same for all the theme styles.*
 
   #### 2️⃣ Copy the theme directory.
   ```shell
-  sudo cp -r dark-matter /boot/grub/themes/
+  sudo cp -r dedsec /boot/grub/themes/
   ```
   #### 3️⃣ Make changes to the GRUB config file.
 
   ```shell
   sudo nano /etc/default/grub
   ```
-  Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub/themes/dark-matter/theme.txt"`
+  Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub/themes/dedsec/theme.txt"`
 
   Then save the file.
 
@@ -61,26 +61,26 @@ sudo python3 install.py
 <details>
  <summary><b>Fedora 💀 Redhat</b></summary>
  
-  #### 1️⃣ Download your favourite version of the theme from [**Pling**](https://www.pling.com/p/1603282/).
+  #### 1️⃣ Download your favourite version of the theme from [**Pling**](https://www.pling.com/p/1569525).
 
   Now extract your downloaded .zip file.
 
-  Either manually extract it or use the command below. ( *Here I'm using debian version of my theme as an example* )
+  Either manually extract it or use the command below. ( *Here I'm using 'brainwash' version of my theme as an example* )
   ```shell
-  unzip dark-matter-debian.zip
+  unzip dedsec-brainwash.zip
   ```
-  *The rest of the commands are the same for all theme styles.*
+  *The rest of the commands are the same for all the theme styles.*
 
   #### 2️⃣ Copy the theme directory.
   ```shell
-  sudo cp -r dark-matter /boot/grub2/themes/
+  sudo cp -r dedsec /boot/grub2/themes/
   ```
   #### 3️⃣ Make changes to the GRUB config file.
 
   ```shell
   sudo nano /etc/default/grub
   ```
-  Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub2/themes/dark-matter/theme.txt"`
+  Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub2/themes/dedsec/theme.txt"`
  
   Change the line `GRUB_TERMINAL_OUTPUT=console` to this *(comment it out)* `#GRUB_TERMINAL_OUTPUT=console`
 
