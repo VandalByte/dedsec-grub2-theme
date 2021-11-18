@@ -1,11 +1,15 @@
 ![logo](/media/logo.png)
 
 <p align="center">
-  <b>DedSec theme was created, inspired by the fictional hacker group DedSec from Watch Dogs video game developed by Ubisoft.</b>
-</p>
-<p align="center">
-  <a href="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/LICENSE"><img alt="undefined" src="https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge&logo=github">
-  <a href="https://www.pling.com/p/1569525"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-green?style=for-the-badge&logo=github"></a>
+  <a href="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge&logo=github&logoColor=white" alt="license" />
+  </a>
+  <a href="https://www.pling.com/p/1569525">
+    <img src="https://img.shields.io/badge/Download-here-green?style=for-the-badge&logo=github&logoColor=white" alt="license" />
+  </a>
+  <a href="https://www.buymeacoffee.com/vandalsoul">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-d4b700?style=for-the-badge&logo=buymeacoffee&logoColor=d4b700" alt="license" />
+  </a>
 </p>
 
 ## 📢 UPDATE 3.0 IS HERE... 🥳🥳🥳
