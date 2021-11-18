@@ -9,7 +9,7 @@
 </p>
 
 ## 📢 UPDATE 3.0 IS HERE... 🥳🥳🥳
-***With new theme-styles upgraded fonts and more... see the [changelog](https://github.com/vandalsoul/dedsec-grub2-theme/main/blob/CHANGELOG.md) for more info.***
+***With new theme-styles upgraded fonts and more... see the [changelog](https://github.com/vandalsoul/dedsec-grub2-theme/blob/main/CHANGELOG.md) for more info.***
 
 ## ⚙️ Installation
 
