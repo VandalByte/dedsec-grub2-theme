@@ -110,7 +110,7 @@ sudo python3 install.py
   <br>
   <b>Hey guys if you can, please donate to <a href="https://teamseas.org/">#TEAMSEAS<a></b> 
   <br>
-  <b>😉 let's be a part of saving our beautiful oceans 🌊 and it's wildlife 🐢🐬🐙 shall we...</b>
+  <b>😉 Let's be a part of saving our beautiful Oceans 🌊 and it's Wildlife 🐢🐬🐙 shall we...</b>
   <br><br>
   <b><i>“Alone we can do so little, together we can do so much.” - Helen Keller</i></b>
 </p>
