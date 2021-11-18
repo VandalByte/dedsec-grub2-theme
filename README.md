@@ -117,6 +117,3 @@ sudo python3 install.py
   <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-wrench.png" />
   <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/update/media/previews/preview-hype.png" />
 </p>
-
-## 📝 License
-Made with 💖 and it's released under the **MIT** license.
