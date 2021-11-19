@@ -103,7 +103,7 @@ sudo python3 install.py
 <p align="center">
   <b>Also, if you liked 💕 my project please give it a star ⭐ this will inspire me lot and show me that people actually 😌 do care...</b>
   <br>
-  <b> Well... ummmmm that's all have a great day 😅</b></b>
+  <b> Well... ummmmm that's all 😅 have a great day 🤗</b></b>
 </p>
 
 ## ❤️ Support
