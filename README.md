@@ -100,7 +100,13 @@ sudo python3 install.py
   Now restart your computer the grub theme should be installed successfully, enjoy !!
 </details>
 
-## 💰 Donate
+<p align="center">
+  <b>Also, if you liked 💕 my project please give it a star ⭐ this will inspire me lot and show me that people actually 😌 do care...</b>
+  <br>
+  <b> Well... ummmmm that's all have a great day 😅</b></b>
+</p>
+
+## ❤️ Support
 
 <p align="center">
   <a href="https://teamseas.org/">
@@ -108,7 +114,7 @@ sudo python3 install.py
   </a>
   <br>
   <br>
-  <b>Hey guys if you can, please donate to <a href="https://teamseas.org/">#TEAMSEAS<a></b> 
+  <b>Hey guys if you can, please support <a href="https://teamseas.org/">#TEAMSEAS<a></b> 
   <br>
   <b>😉 Let's be a part of saving our beautiful Oceans 🌊 and it's Wildlife 🐢🐬🐙 shall we...</b>
   <br><br>
