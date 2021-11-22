@@ -35,7 +35,7 @@ sudo python3 install.py
 <details>
  <summary><b>Debian 💀 Ubuntu 💀 Arch</b></summary>
  
-  #### 1️⃣ Download your favourite version of the theme from [**Pling**](https://www.pling.com/p/1603282/).
+  #### 1️⃣ Download your favourite version of the theme from [**Pling**](https://www.pling.com/p/1569525/).
 
   Now extract your downloaded .zip file.
 
