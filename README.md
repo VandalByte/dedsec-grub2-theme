@@ -12,20 +12,17 @@
   </a>
 </p>
 
-## 📢 UPDATE 3.0 IS HERE... 🥳🥳🥳
-***With new theme-styles upgraded fonts and more... see the [changelog](https://github.com/vandalsoul/dedsec-grub2-theme/blob/main/CHANGELOG.md) for more info.***
-
 ## ⚙️ Installation
 
 ### ✅ Using Installation Script
 
-#### 1️⃣ First clone the repository, then navigate into it.
+#### 1️⃣ Clone the repository
 ```shell
-git clone https://github.com/vandalsoul/dedsec-grub2-theme.git
+git clone --depth 1 https://github.com/vandalsoul/dedsec-grub2-theme.git
 cd dedsec-grub2-theme
 ```
 
-#### 2️⃣ Run the `install.py`
+#### 2️⃣ Run `install.py`
 ```shell
 sudo python3 install.py
 ```
