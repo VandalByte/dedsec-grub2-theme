@@ -122,6 +122,9 @@ sudo python3 install.py
 <p><b>NOTE : <i>The theme-style name tags present in the preview are not there in the actual theme...</i></b></p>
 <p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/previews/preview-compact.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/previews/preview-hype.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/previews/preview-unite.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/previews/preview-wrench.png" />
   <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/previews/preview-brainwash.png" />
   <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/previews/preview-lovetrap.png" />
   <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/previews/preview-spam.png" />
@@ -131,7 +134,4 @@ sudo python3 install.py
   <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/previews/preview-strike.png" />
   <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/previews/preview-wannacry.png" />
   <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/previews/preview-legion.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/previews/preview-unite.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/previews/preview-wrench.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/vandalsoul/dedsec-grub2-theme/main/media/previews/preview-hype.png" />
 </p>
