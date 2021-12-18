@@ -12,6 +12,12 @@
   </a>
 </p>
 
+<p align="center">
+  <b>🤓 If you wanna check out some of the tweaks you can do in GRUB visit</b>
+  <b><a href="https://github.com/vandalsoul/grub-tweaks">here</a></b>
+  <b></b>
+</p>
+
 ## ⚙️ Installation
 
 ### ✅ Using Installation Script
