@@ -1,5 +1,10 @@
 # FULL CHANGELOG
 
+### 📢 Update 3.1 @ ( 01/02/2022 )
+
+- *5 New theme-styles added.*
+- *Updated installation script.*
+
 ### 📢 Update 3.0 @ ( 11/18/2021 )
 
 - *Updated background images.*
