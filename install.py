@@ -5,7 +5,7 @@
 #  | |) / -_) _` \__ \/ -_) _| | (_ |   / |_| | _ \___|  _| ' \/ -_) '  \/ -_)
 #  |___/\___\__,_|___/\___\__|  \___|_|_\\___/|___/    \__|_||_\___|_|_|_\___|
 #
-# Version: 3.0
+# Version: 3.1
 #
 # Written by Vandal (vandalsoul)
 # Github: https://github.com/vandalsoul/dedsec-grub2-theme/
@@ -112,18 +112,23 @@ def main():
         "K": "Spyware",
         "L": "Strike",
         "M": "WannaCry",
+	"N": "Tremor",
+	"O": "Stalker",
+	"P": "Mashup",
+	"Q": "Fuckery",
+	"R": "Reaper",
     }
 
     print("(#) Choose you Theme-Style :\n")
 
     style_sheet_menu = f"""
-        (A)  Compact theme       (H)  LoveTrap theme 
-        (B)  Hype theme          (I)  RedSkull theme 
-        (C)  Legion theme        (J)  Spam theme     
-        (D)  Unite theme         (K)  Spyware theme  
+        (A)  Compact theme       (H)  LoveTrap theme     (O)  Stalker theme
+        (B)  Hype theme          (I)  RedSkull theme     (P)  Mashup theme
+        (C)  Legion theme        (J)  Spam theme         (Q)  Fuckery theme
+        (D)  Unite theme         (K)  Spyware theme      (R)  Reaper theme
         (E)  Wrench theme        (L)  Strike theme   
         (F)  Brainwash theme     (M)  WannaCry theme
-        (G)  Firewall theme 
+        (G)  Firewall theme      (N)  Tremor theme
 
     """
     print(style_sheet_menu)
