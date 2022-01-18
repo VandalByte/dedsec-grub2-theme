@@ -9,6 +9,9 @@
 #
 # Written by Vandal (vandalsoul)
 # Github: https://github.com/vandalsoul/dedsec-grub2-theme/
+#
+# Contributors:
+#  - Miguel Calles (Migueacalle98)
 
 # imports
 import subprocess
@@ -23,12 +26,25 @@ def check_root():
         print("(!) Run the script with 'sudo' privileges or as root user !!\n")
         exit()
 
+def check_distro():
+    cwd_cont = os.listdir("/etc")
+    release_file_path = ""
+    for i in cwd_cont:
+        if i.endswith("-release") and os.path.isfile(f"/etc/{i}"):
+            release_file_path = f"/etc/{i}"
+            break
+    
+    if not release_file_path:
+        raise Exception("Release file not found")
+
+    # output = str(subprocess.check_output('echo '+ release_file_path, shell=True).decode("utf-8"))
+    output = open(release_file_path, 'r').read()
+    id = re.search(r"(\w*_ID=\w*)|(\w*ID=\w*)", output).group(0)
+    distro = id.split("=")[-1].lower().strip()
+    return distro
 
 def change_grub_theme(grub_theme_path):
-
-    output = str(subprocess.check_output("cat /etc/*-release", shell=True).decode("utf-8"))
-    id = re.search(".*[a-zA-Z]+=[a-zA-Z]+", output).group(0)
-    distro = id.replace("ID=","").lower().strip()
+    distro = check_distro()
 
     with open("/etc/default/grub", "r") as grub_file:
         data = grub_file.readlines()
