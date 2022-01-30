@@ -7,9 +7,6 @@
   <a href="https://www.pling.com/p/1569525">
     <img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=github&logoColor=000000" alt="license" />
   </a>
-  <a href="https://www.buymeacoffee.com/vandalsoul">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-d4b700?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="license" />
-  </a>
 </p>
 
 <p align="center">
@@ -113,16 +110,15 @@ sudo python3 install.py
 ## ❤️ Support
 
 <p align="center">
-  <a href="https://teamseas.org/">
-    <img width="25%" src="https://assets01.teamassets.net/assets/images/teamseas-tm-logo.png" alt="teamseas" />
+  <b>Support me on...</b>
+</p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/vandalsoul">
+    <img height='70' src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" />
   </a>
-  <br>
-  <br>
-  <b>Hey guys if you can, please support <a href="https://teamseas.org/">#TEAMSEAS<a></b> 
-  <br>
-  <b>😉 Let's be a part of saving our beautiful Oceans 🌊 and it's Wildlife 🐢🐬🐙 shall we...</b>
-  <br><br>
-  <b><i>“Alone we can do so little, together we can do so much.” - Helen Keller</i></b>
+  <a href="https://ko-fi.com/N4N79N09K">
+    <img height='70' style='border:0px;height:70px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
 </p>
 
 ## 📸 Preview
