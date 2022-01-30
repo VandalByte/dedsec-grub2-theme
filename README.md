@@ -110,14 +110,14 @@ sudo python3 install.py
 ## ❤️ Support
 
 <p align="center">
-  <b>Support me on...</b>
+  <b>💖 Support me on...</b>
 </p>
 <p align="center">
   <a href="https://www.buymeacoffee.com/vandalsoul">
-    <img height='70' src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" />
+    <img height='60' src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" />
   </a>
-  <a href="https://ko-fi.com/N4N79N09K">
-    <img height='70' style='border:0px;height:70px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  <a href="https://ko-fi.com/vandalsoul">
+    <img height='60' style='border:0px;height:60px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
   </a>
 </p>
 
