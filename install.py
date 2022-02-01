@@ -28,11 +28,12 @@ def check_root():
 
 def check_distro():
     cwd_cont = os.listdir("/etc")
-    release_file_path = ""
-    for i in cwd_cont:
-        if i.endswith("-release") and os.path.isfile(f"/etc/{i}"):
-            release_file_path = f"/etc/{i}"
-            break
+    release_file_path = '/etc/os-release' if 'os-release' in cwd_cont else ''
+    if not release_file_path:
+        for i in cwd_cont:
+            if i.endswith("-release") and os.path.isfile(f"/etc/{i}"):
+                release_file_path = f"/etc/{i}"
+                break
     
     if not release_file_path:
         raise Exception("Release file not found")
