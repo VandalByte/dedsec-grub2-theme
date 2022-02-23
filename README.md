@@ -113,9 +113,6 @@ sudo python3 install.py
   <b>💖 Support this project..</b>
 </p>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/vandalsoul">
-    <img height='30' src="https://img.shields.io/badge/support-buy%20me%20a%20coffee-d4b700?style=for-the-badge&logo=buymeacoffee&logoColor=d4b700" />
-  </a>
   <a href="https://ko-fi.com/vandalsoul">
     <img height='30' style='border:0px;height:30px;' src='https://img.shields.io/badge/support-ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B' />
   </a>
