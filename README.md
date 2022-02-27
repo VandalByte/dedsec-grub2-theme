@@ -7,6 +7,9 @@
   <a href="https://www.pling.com/p/1569525">
     <img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=github&logoColor=000000" alt="license" />
   </a>
+  <a href="https://www.pling.com/p/1569525">
+    <img src="https://img.shields.io/badge/Version--3.1-ff173f?style=for-the-badge&logo=github&logoColor=000000" alt="license" />
+  </a>
 </p>
 
 <p align="center">
