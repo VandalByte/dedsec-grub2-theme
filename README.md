@@ -106,22 +106,12 @@ sudo python3 install.py
 </details>
 
 <p align="center">
-  <b>Also, if you liked 💕 my project please give it a star ⭐ this will inspire me lot and show me that you guys actually like and support my work...</b>
+  <b>If you liked 💕 my project please give it a star ⭐ this will inspire me lot and show me that you guys actually like and support my work...</b>
   <b>So ummm... that's all 😅 have an awesome day 🤗</b>
 </p>
 
-## ❤️ Support
-
 <p align="center">
-  <b>💖 Support this project..</b>
-</p>
-<p align="center">
-  <a href="https://ko-fi.com/vandalsoul">
-    <img height='30' style='border:0px;height:30px;' src='https://img.shields.io/badge/support-ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B' />
-  </a>
-</p>
-<p align="center">
-  <b>Also follow me on 💬 <a href="https://github.com/vandalsoul">Github</a> or on 💬 <a href="https://twitter.com/vandal_soul">Twitter</a>  to keep in touch with all the updates..</b>
+  <b>Also follow me on 💬 <a href="https://github.com/vandalsoul">Github</a> or on 💬 <a href="https://twitter.com/vandal_soul">Twitter</a>  to keep in touch with all the updates...</b>
 </p>
 
 ## 📸 Preview
