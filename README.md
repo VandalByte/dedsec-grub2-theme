@@ -15,9 +15,6 @@
 <p align="center">
   <b>🤓 If you wanna check out some of the tweaks you can do in GRUB check out</b>
   <b><a href="https://github.com/vandalsoul/grub-tweaks">grub-tweaks</a></b>
-  <br>
-  <b>📣 Hey everyone, if you are interested in polling for the new update of <code>dark-matter</code> check out the</b>
-  <b><a href="https://github.com/vandalsoul/darkmatter-grub2-theme/issues/16">issue#16</a></b>
 </p>
 
 ## ⚙️ Installation
