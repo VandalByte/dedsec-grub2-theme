@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=github&logoColor=000000" alt="license" />
   </a>
   <a href="https://www.pling.com/p/1569525">
-    <img src="https://img.shields.io/badge/Version--3.1-ff173f?style=for-the-badge&logo=github&logoColor=000000" alt="license" />
+    <img src="https://img.shields.io/badge/Version--4.0-ff173f?style=for-the-badge&logo=github&logoColor=000000" alt="license" />
   </a>
 </p>
 
@@ -116,9 +116,10 @@ sudo python3 install.py
 <p><b>NOTE : <i>The theme-style name tags present in the preview are not there in the actual theme...</i></b></p>
 <p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-compact.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-hype.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-hackerden.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-unite.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-wrench.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-sitedown.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-mashup.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-fuckery.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-tremor.png" />
