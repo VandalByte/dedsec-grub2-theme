@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=80% src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/banner.png" alt="banner" />
+  <img width=90% src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/banner.png" alt="banner" />
 </p>
 
 <p align="center">
