@@ -14,11 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <b>🤓 If you wanna check out some of the tweaks you can do in GRUB check out</b>
-  <b><a href="https://github.com/VandalByte/grub-tweaks">grub-tweaks</a></b>
-</p>
-
 ## ⚙️ Installation
 
 ### ✅ Using Installation Script
@@ -115,7 +110,6 @@ sudo python3 install.py
 
 ## 📸 Preview
 
-<p><b>NOTE : <i>The theme-style name tags present in the preview are not there in the actual theme...</i></b></p>
 <p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-compact.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-hackerden.png" />
