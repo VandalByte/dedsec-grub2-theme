@@ -14,22 +14,14 @@
   </a>
 </p>
 
-## ⚙️ Installation
+### ✔️ Installation
 
-### ✅ Using Installation Script
-
-#### 1️⃣ Clone the repository
 ```shell
-git clone --depth 1 https://github.com/VandalByte/dedsec-grub2-theme.git
-cd dedsec-grub2-theme
-```
-
-#### 2️⃣ Run `install.py`
-```shell
+git clone --depth 1 https://github.com/VandalByte/dedsec-grub2-theme.git && cd dedsec-grub2-theme
 sudo python3 install.py
 ```
 
-### ✅ Manual Installation
+### ✔️ Manual Installation
 *Click to view...*
 <details>
  <summary><b>Debian 💀 Ubuntu 💀 Arch</b></summary>
@@ -99,13 +91,17 @@ sudo python3 install.py
   Now restart your computer the grub theme should be installed successfully, enjoy !!
 </details>
 
+### ❌ Uninstallation
+```shell
+sudo python3 uninstall.py
+```
+
 <p align="center">
-  <b>If you liked 💕 my project please give it a star ⭐ this will inspire me lot and show me that you guys actually like and support my work...</b>
-  <b>So ummm... that's all 😅 have an awesome day 🤗</b>
+  <b>Please consider 🤗 giving this project a star ⭐ if you liked 💕 it</b>
 </p>
 
 <p align="center">
-  <b>Also follow me on 💬 <a href="https://github.com/VandalByte">Github</a> or on 💬 <a href="https://twitter.com/VandalByte">Twitter</a>  to keep in touch with all the updates...</b>
+  <b>Follow me on 💬 <a href="https://github.com/VandalByte">Github</a> or 💬 <a href="https://twitter.com/VandalByte">Twitter</a>  to stay up to date on all future updates ...</b>
 </p>
 
 ## 📸 Preview
