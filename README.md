@@ -18,7 +18,7 @@
 
 ```shell
 git clone --depth 1 https://github.com/VandalByte/dedsec-grub2-theme.git && cd dedsec-grub2-theme
-sudo python3 install.py
+sudo python3 dedsec-theme.py --install
 ```
 
 ### ✔️ Manual Installation
@@ -93,7 +93,7 @@ sudo python3 install.py
 
 ### ❌ Uninstallation
 ```shell
-sudo python3 uninstall.py
+sudo python3 dedsec-theme.py --uninstall
 ```
 
 <p align="center">
