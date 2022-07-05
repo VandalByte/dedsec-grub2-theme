@@ -111,7 +111,7 @@ sudo python3 dedsec-theme.py --uninstall
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-hackerden.png" />
   <br>
   <b>Codename : 💀 Compactㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b>
-  <b>Codename : 💀 Compact</b>
+  <b>Codename : 💀 HackerDen</b>
 </p>
 
 <p align="center">
