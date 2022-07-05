@@ -117,67 +117,67 @@ sudo python3 dedsec-theme.py --uninstall
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-unite.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-wrench.png" />
   <br>
-  <b>💀 Uniteㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 💀 Wrench</b>
+  <b>💀 Uniteㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 💀 Wrench</b>
 </p>
 
 <p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-sitedown.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-comments.png" />
   <br>
-  <b>Codename : 💀 SiteDownㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤCodename : 💀 Comments</b>
+  <b>💀 SiteDownㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 Comments</b>
 </p>
 
 <p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-trolls.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-mashup.png" />
   <br>
-  <b>Codename : 💀 CompactㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤCodename : 💀 HackerDen</b>
+  <b>💀 Trollsㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 Mashup</b>
 </p>
 
 <p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-fuckery.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-tremor.png" />
   <br>
-  <b>Codename : 💀 CompactㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤCodename : 💀 HackerDen</b>
+  <b>💀 Fuckeryㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 Tremor</b>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-stalker.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-reaper.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-stalker.png" />
   <br>
-  <b>Codename : 💀 CompactㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤCodename : 💀 HackerDen</b>
+  <b>💀 Reaperㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 Stalker</b>
 </p>
 
 <p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-brainwash.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-lovetrap.png" />
   <br>
-  <b>Codename : 💀 CompactㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤCodename : 💀 HackerDen</b>
+  <b>💀 Brainwashㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 LoveTrap</b>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-spam.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-spyware.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-spam.png" />
   <br>
-  <b>Codename : 💀 CompactㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤCodename : 💀 HackerDen</b>
+  <b>💀 Spywareㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 Spam</b>
 </p>
 
 <p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-redskull.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-firewall.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-strike.png" />
   <br>
-  <b>Codename : 💀 CompactㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤCodename : 💀 HackerDen</b>
+  <b>💀 RedSkullㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 Strike</b>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-strike.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-firewall.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-wannacry.png" />
   <br>
-  <b>Codename : 💀 CompactㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤCodename : 💀 HackerDen</b>
+  <b>💀 Firewallㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 WannaCry</b>
 </p>
 
 <p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-legion.png" />
   <br>
-  <b>Codename : 💀 CompactㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤCodename : 💀 HackerDen</b>
+  <b>💀 Legion</b>
 </p>
