@@ -1,4 +1,6 @@
-![logo](/media/logo.png)
+<p align="center">
+  <img width=90% src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/banner.png" alt="banner" />
+</p>
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/LICENSE">
@@ -8,31 +10,18 @@
     <img src="https://img.shields.io/badge/Download-green?style=for-the-badge&logo=github&logoColor=000000" alt="license" />
   </a>
   <a href="https://www.pling.com/p/1569525">
-    <img src="https://img.shields.io/badge/Version--3.1-ff173f?style=for-the-badge&logo=github&logoColor=000000" alt="license" />
+    <img src="https://img.shields.io/badge/Version--4.0-ff173f?style=for-the-badge&logo=github&logoColor=000000" alt="license" />
   </a>
 </p>
 
-<p align="center">
-  <b>🤓 If you wanna check out some of the tweaks you can do in GRUB check out</b>
-  <b><a href="https://github.com/VandalByte/grub-tweaks">grub-tweaks</a></b>
-</p>
+### ✔️ Installation
 
-## ⚙️ Installation
-
-### ✅ Using Installation Script
-
-#### 1️⃣ Clone the repository
 ```shell
-git clone --depth 1 https://github.com/VandalByte/dedsec-grub2-theme.git
-cd dedsec-grub2-theme
+git clone --depth 1 https://github.com/VandalByte/dedsec-grub2-theme.git && cd dedsec-grub2-theme
+sudo python3 dedsec-theme.py --install
 ```
 
-#### 2️⃣ Run `install.py`
-```shell
-sudo python3 install.py
-```
-
-### ✅ Manual Installation
+### ✔️ Manual Installation
 *Click to view...*
 <details>
  <summary><b>Debian 💀 Ubuntu 💀 Arch</b></summary>
@@ -102,35 +91,93 @@ sudo python3 install.py
   Now restart your computer the grub theme should be installed successfully, enjoy !!
 </details>
 
+### ❌ Uninstallation
+```shell
+sudo python3 dedsec-theme.py --uninstall
+```
+**With a little effort the theme's text colours, progress bar colours, progress bar text, and so on can all be customised in `theme.txt` to your liking 💕**
 <p align="center">
-  <b>If you liked 💕 my project please give it a star ⭐ this will inspire me lot and show me that you guys actually like and support my work...</b>
-  <b>So ummm... that's all 😅 have an awesome day 🤗</b>
+  <b>Please consider 🤗 giving this project a star ⭐ if you liked it</b>
 </p>
 
 <p align="center">
-  <b>Also follow me on 💬 <a href="https://github.com/VandalByte">Github</a> or on 💬 <a href="https://twitter.com/VandalByte">Twitter</a>  to keep in touch with all the updates...</b>
+  <b>Follow me on 💬 <a href="https://github.com/VandalByte">Github</a> or 💬 <a href="https://twitter.com/VandalByte">Twitter</a>  to stay up to date on all future updates ...</b>
 </p>
 
 ## 📸 Preview
 
-<p><b>NOTE : <i>The theme-style name tags present in the preview are not there in the actual theme...</i></b></p>
 <p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-compact.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-hype.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-hackerden.png" />
+  <br>
+  <b>💀 Compactㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 HackerDen</b>
+</p>
+
+<p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-unite.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-wrench.png" />
+  <br>
+  <b>💀 Uniteㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 💀 Wrench</b>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-sitedown.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-comments.png" />
+  <br>
+  <b>💀 SiteDownㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 Comments</b>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-trolls.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-mashup.png" />
+  <br>
+  <b>💀 Trollsㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 Mashup</b>
+</p>
+
+<p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-fuckery.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-tremor.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-stalker.png" />
+  <br>
+  <b>💀 Fuckeryㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 Tremor</b>
+</p>
+
+<p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-reaper.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-stalker.png" />
+  <br>
+  <b>💀 Reaperㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 Stalker</b>
+</p>
+
+<p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-brainwash.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-lovetrap.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-spam.png" />
+  <br>
+  <b>💀 Brainwashㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 LoveTrap</b>
+</p>
+
+<p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-spyware.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-spam.png" />
+  <br>
+  <b>💀 Spywareㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 Spam</b>
+</p>
+
+<p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-redskull.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-firewall.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-strike.png" />
+  <br>
+  <b>💀 RedSkullㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 Strike</b>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-firewall.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-wannacry.png" />
+  <br>
+  <b>💀 Firewallㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 WannaCry</b>
+</p>
+
+<p align="center">
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-legion.png" />
+  <br>
+  <b>💀 Legion</b>
 </p>
