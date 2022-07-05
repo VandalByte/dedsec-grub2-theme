@@ -145,7 +145,7 @@ sudo python3 dedsec-theme.py --uninstall
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-reaper.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-stalker.png" />
   <br>
-  <b>💀 Reaperㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 Stalker</b>
+  <b>💀 Reaperㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 Stalker</b>
 </p>
 
 <p align="center">
@@ -166,7 +166,7 @@ sudo python3 dedsec-theme.py --uninstall
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-redskull.png" />
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-strike.png" />
   <br>
-  <b>💀 RedSkullㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 Strike</b>
+  <b>💀 RedSkullㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💀 Strike</b>
 </p>
 
 <p align="center">
