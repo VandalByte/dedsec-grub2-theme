@@ -107,23 +107,25 @@ sudo python3 dedsec-theme.py --uninstall
 ## 📸 Preview
 
 <p align="center">
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-compact.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-hackerden.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-unite.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-wrench.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-sitedown.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-mashup.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-fuckery.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-tremor.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-stalker.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-reaper.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-brainwash.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-lovetrap.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-spam.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-spyware.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-redskull.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-firewall.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-strike.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-wannacry.png" />
-  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-legion.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-compact.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-hackerden.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-unite.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-wrench.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-legion.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-sitedown.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-comments.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-trolls.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-mashup.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-fuckery.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-tremor.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-stalker.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-reaper.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-brainwash.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-lovetrap.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-spam.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-spyware.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-redskull.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-firewall.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-strike.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/update-4.0/media/previews/preview-wannacry.png" />
 </p>
