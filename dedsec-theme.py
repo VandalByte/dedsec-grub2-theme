@@ -36,8 +36,11 @@ def check_root():
 
 
 def check_distro():
-    lsb_id = subprocess.check_output("lsb_release -i", shell=True).decode("utf-8")
-    id = lsb_id.split(":")[-1].lower().strip()
+    try:
+        lsb_id = subprocess.check_output("lsb_release -i", shell=True).decode("utf-8")
+        id = lsb_id.split(":")[-1].lower().strip()
+    except Exception:
+        id = ""
     return id
 
 
@@ -168,18 +171,13 @@ def install():
 
     if os.path.exists(THEME_DIR):
         print("\n")
-        ask = input(f"{B}(?){C} \033[0;33mAnother version of this theme is already installed,\n    Do you wish to remove it and add the new one (y/n)?\033[0m [default = n] : ")
-        if ask.lower() != "y":
-            print(f"\n{Y}(#){C} No changes were made. Exiting the script ...\n")
-            exit()
-        else:
-            shutil.rmtree(THEME_DIR)
-            print(f"\n{Y}(#){C} Removed the previous version ...")
+        print(f"{Y}(#){C} If you already have a version of this theme installed, uninstall it first.\n")
+        exit()
     else:
         os.mkdir(THEME_DIR)  # making the theme dir in '/boot/grub/themes'
 
     # selecting resolution
-    print(f"\n{B}(?){C} Choose the RESOLUTION {Y}[default = 1]{C} :\n\n(1) {G}1080p{C} {Y}[Full HD]{C}    (2) {G}1440p{C} {Y}[2K]{C}\n")
+    print(f"\n{B}(?){C} Choose the RESOLUTION {Y}[default = 1]{C} :\n\n    (1) {G}1080p{C} {Y}[Full HD]{C}    (2) {G}1440p{C} {Y}[2K]{C}\n")
     icon_theme_choice = input(f"{B}(?){C} choice : ")
     if icon_theme_choice == "2":
         RESOLUTION = "1440p"
@@ -187,7 +185,7 @@ def install():
         RESOLUTION = "1080p"
 
     # selecting icon theme
-    print(f"\n{B}(?){C} Choose the ICON THEME {Y}[default = 1]{C} :\n\n(1) {G}Color{C} Icons     (2) {G}White{C} Icons\n")
+    print(f"\n{B}(?){C} Choose the ICON THEME {Y}[default = 1]{C} :\n\n    (1) {G}Color{C} Icons     (2) {G}White{C} Icons\n")
     icon_theme_choice = input("choice : ")
     if icon_theme_choice == "2":
         ICON_THEME = "white"
