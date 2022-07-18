@@ -18,7 +18,7 @@
 
 ### ✔️ Installation
 
-```shell
+```fish
 git clone --depth 1 https://github.com/VandalByte/dedsec-grub2-theme.git && cd dedsec-grub2-theme
 sudo python3 dedsec-theme.py --install
 ```
@@ -33,18 +33,18 @@ sudo python3 dedsec-theme.py --install
   Now extract your downloaded .zip file.
 
   Either manually extract it or use the command below. ( *Here I'm using 'brainwash' version of my theme as an example* )
-  ```shell
+  ```fish
   unzip dedsec-brainwash.zip
   ```
   *The rest of the commands are the same for all the theme styles.*
 
   #### 2️⃣ Copy the theme directory.
-  ```shell
+  ```fish
   sudo cp -r dedsec /boot/grub/themes/
   ```
   #### 3️⃣ Make changes to the GRUB config file.
 
-  ```shell
+  ```fish
   sudo nano /etc/default/grub
   ```
   Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub/themes/dedsec/theme.txt"`
@@ -52,7 +52,7 @@ sudo python3 dedsec-theme.py --install
   Then save the file.
 
   #### 4️⃣ Finally, update the grub.
-  ```shell
+  ```fish
   sudo grub-mkconfig -o /boot/grub/grub.cfg
   ```
   Now the theme should be installed successfully, enjoy !!
@@ -66,18 +66,18 @@ sudo python3 dedsec-theme.py --install
   Now extract your downloaded .zip file.
 
   Either manually extract it or use the command below. ( *Here I'm using 'brainwash' version of my theme as an example* )
-  ```shell
+  ```fish
   unzip dedsec-brainwash.zip
   ```
   *The rest of the commands are the same for all the theme styles.*
 
   #### 2️⃣ Copy the theme directory.
-  ```shell
+  ```fish
   sudo cp -r dedsec /boot/grub2/themes/
   ```
   #### 3️⃣ Make changes to the GRUB config file.
 
-  ```shell
+  ```fish
   sudo nano /etc/default/grub
   ```
   Find the line `GRUB_THEME=` then change it to `GRUB_THEME="/boot/grub2/themes/dedsec/theme.txt"`
@@ -87,14 +87,14 @@ sudo python3 dedsec-theme.py --install
   Then save the file.
 
   #### 4️⃣ Finally, update the grub.
-  ```shell
+  ```fish
   sudo grub2-mkconfig -o /boot/grub2/grub.cfg
   ```
   Now restart your computer the grub theme should be installed successfully, enjoy !!
 </details>
 
 ### ❌ Uninstallation
-```shell
+```fish
 sudo python3 dedsec-theme.py --uninstall
 ```
 **With a little effort the theme's text colours, progress bar colours, progress bar text, and so on can all be customised in `theme.txt` to your liking 💕**
