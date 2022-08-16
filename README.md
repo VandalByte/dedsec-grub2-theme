@@ -14,8 +14,6 @@
   </a>
 </p>
 
-**📣 NOTE : I haven't tested the 2K version of the theme because I don't have a 2K display, so if someone could test it out and let me know how it works, that would be fantastic.**
-
 ### ✔️ Installation
 
 ```fish
