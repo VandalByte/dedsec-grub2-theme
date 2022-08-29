@@ -24,7 +24,7 @@ sudo python3 dedsec-theme.py --install
 ### ✔️ Manual Installation
 *Click to view...*
 <details>
- <summary><b>Debian 💀 Ubuntu 💀 Arch</b></summary>
+ <summary><b>Debian Ubuntu Arch</b></summary>
  
   #### 1️⃣ Download your favourite version of the theme from [**Pling**](https://www.pling.com/p/1569525/).
 
@@ -57,7 +57,7 @@ sudo python3 dedsec-theme.py --install
 </details>
 
 <details>
- <summary><b>Fedora 💀 Redhat</b></summary>
+ <summary><b>Fedora Redhat</b></summary>
  
   #### 1️⃣ Download your favourite version of the theme from [**Pling**](https://www.pling.com/p/1569525).
 
@@ -109,16 +109,16 @@ sudo python3 dedsec-theme.py --uninstall
 |    |    |    |
 |:-------:|:-------:|:---------:|
 |![Compact](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-compact.png)|![HackerDen](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-hackerden.png)|![Legion](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-legion.png)|
-|**💀 Compact**|**💀 HackerDen**|**💀 Legion**|
+|**Compact**|**HackerDen**|**Legion**|
 |![Wrench](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-wrench.png)|![Unite](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-unite.png)|![Mashup](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-mashup.png)|
-|**💀 Wrench**|**💀 Unite**|**💀 Mashup**|
+|**Wrench**|**Unite**|**Mashup**|
 |![SiteDown](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-sitedown.png)|![Trolls](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-trolls.png)|![Comments](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-comments.png)|
-|**💀 SiteDown**|**💀 Trolls**|**💀 Comments**|
+|**SiteDown**|**Trolls**|**Comments**|
 |![Fuckery](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-fuckery.png)|![Tremor](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-tremor.png)|![Reaper](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-reaper.png)|
-|**💀 Fuckery**|**💀 Tremor**|**💀 Reaper**|
+|**Fuckery**|**Tremor**|**Reaper**|
 |![Stalker](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-stalker.png)|![Brainwash](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-brainwash.png)|![LoveTrap](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-lovetrap.png)|
-|**💀 Stalker**|**💀 Brainwash**|**💀 LoveTrap**|
+|**Stalker**|**Brainwash**|**LoveTrap**|
 |![Spyware](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-spyware.png)|![Spam](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-spam.png)|![RedSkull](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-redskull.png)|
-|**💀 Spyware**|**💀 Spam**|**💀 RedSkull**|
+|**Spyware**|**Spam**|**RedSkull**|
 |![Strike](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-strike.png)|![Firewall](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-firewall.png)|![WannaCry](https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-wannacry.png)|
-|**💀 Strike**|**💀 Firewall**|**💀 WannaCry**|
+|**Strike**|**Firewall**|**WannaCry**|
