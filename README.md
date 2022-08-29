@@ -28,9 +28,8 @@ sudo python3 dedsec-theme.py --install
 ```
 
 ### ✔️ Manual Installation
-*Click to view...*
 <details>
- <summary><b>Debian Ubuntu Arch</b></summary>
+ <summary><b>Debian 💀 Ubuntu 💀 Arch</b></summary>
  
   #### 1️⃣ Download your favourite version of the theme from [**Pling**](https://www.pling.com/p/1569525/).
 
@@ -63,7 +62,7 @@ sudo python3 dedsec-theme.py --install
 </details>
 
 <details>
- <summary><b>Fedora Redhat</b></summary>
+ <summary><b>Fedora 💀 Redhat</b></summary>
  
   #### 1️⃣ Download your favourite version of the theme from [**Pling**](https://www.pling.com/p/1569525).
 
