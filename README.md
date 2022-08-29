@@ -38,7 +38,7 @@ sudo python3 dedsec-theme.py --install
 
   Either manually extract it or use the command below. ( *Here I'm using 'brainwash' version of my theme as an example* )
   ```fish
-  unzip dedsec-brainwash.zip
+  unzip dedsec-brainwash-1080p.zip
   ```
   *The rest of the commands are the same for all the theme styles.*
 
@@ -71,7 +71,7 @@ sudo python3 dedsec-theme.py --install
 
   Either manually extract it or use the command below. ( *Here I'm using 'brainwash' version of my theme as an example* )
   ```fish
-  unzip dedsec-brainwash.zip
+  unzip dedsec-brainwash-1080p.zip
   ```
   *The rest of the commands are the same for all the theme styles.*
 
