@@ -4,10 +4,10 @@
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-008a8a?style=for-the-badge&logo=github&logoColor=000000" alt="license" />
+    <img src="https://img.shields.io/badge/license-008a8a?style=for-the-badge" alt="license" />
   </a>
   <a href="https://www.pling.com/p/1569525">
-    <img src="https://img.shields.io/badge/Download-32cd32?style=for-the-badge&logo=github&logoColor=000000" alt="license" />
+    <img src="https://img.shields.io/badge/Download-32cd32?style=for-the-badge" alt="license" />
   </a>
   <a href="https://gitlab.com/VandalByte/dedsec-grub-theme">
     <img src="https://img.shields.io/badge/gitlab%20(main repo)-8002bf?style=for-the-badge" alt="license" />
