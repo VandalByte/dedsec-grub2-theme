@@ -102,13 +102,13 @@ sudo python3 dedsec-theme.py --install
 sudo python3 dedsec-theme.py --uninstall
 ```
 **With a little effort the theme's text colours, progress bar colours, progress bar text, and so on can all be customised in `theme.txt` to your liking 💕**
-<p align="center">
+<div align="center">
   <b>Please consider 🤗 giving this project a star ⭐ if you liked it</b>
-</p>
+</div>
 
-<p align="center">
-  <b>Follow me on 💬 <a href="https://github.com/VandalByte">Github</a> or 💬 <a href="https://twitter.com/VandalByte">Twitter</a>  to stay up to date on all future updates ...</b>
-</p>
+<div align="center">
+  <b>To stay up to date on all future updates, follow me on 💬 <a href="https://github.com/VandalByte">Github</a>, 💬 <a href="https://gitlab.com/VandalByte">GitLab</a> or 💬 <a href="https://twitter.com/VandalByte">Twitter</a></b>
+</div>
 
 ## 📸 Preview
 
