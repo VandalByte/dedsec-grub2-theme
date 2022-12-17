@@ -76,7 +76,7 @@ sudo python3 dedsec-theme.py --install
 
   #### 2️⃣ Copy the theme directory.
   ```fish
-  sudo cp -r dedsec /boot/grub2/themes/
+  sudo cp -r dedsec /boot/grub2/themes/dedsec
   ```
   #### 3️⃣ Make changes to the GRUB config file.
 
