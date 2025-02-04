@@ -11,9 +11,10 @@
   </a>
 </div>
 <br>
-<div style="text-align: center;">
+<div align="center">
   This is a collection of GRUB themes inspired by the infamous fictional hacker group, DedSec, from the Watch Dogs video game series.
-  Consider giving this project a star ⭐ if you liked it 🤗
+    Consider giving this project a star ⭐ if you liked it 🤗
+  
 </div>
 
 ### ⚙️ Installation
