@@ -1,0 +1,14 @@
+The Fonts used, as well as their respective details, are listed below :
+
+--- HACK font ---------------------------------------------------------
+
+Author  : Chris Simpkins
+Source  : https://github.com/chrissimpkins/Hack
+License : MIT License & BITSTREAM VERA LICENSE
+          https://github.com/chrissimpkins/Hack/blob/master/LICENSE.md
+
+--- NORWESTER font ----------------------------------------------------
+
+Author  : Jamie Wilson
+Source  : https://www.fontsquirrel.com/fonts/norwester
+License : SIL Open Font License
