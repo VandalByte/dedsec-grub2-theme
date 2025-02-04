@@ -1,0 +1,45 @@
+# DedSec GRUB theme (1440p)
+
+desktop-image: "background.png"
+title-text: ""
+terminal-font: "Hack Bold 22"
+terminal-left: "20%"
+terminal-top: "35%"
+terminal-width: "60%"
+terminal-height: "40%"
+terminal-box: "menu_bkg_*.png"
+
++ boot_menu {
+    menu_pixmap_style = "boot_menu_*.png"
+    left = 20%
+    width = 60%
+    top = 30%
+    height = 40%
+    item_font = "Norwester Regular 28"
+    item_color = "#919090"
+    selected_item_font = "Norwester Regular 30"
+    selected_item_color = "#ffffff"
+    icon_width = 48
+    icon_height = 48
+    item_icon_space = 24
+    item_height = 56
+    item_padding = 8
+    item_spacing = 16
+    selected_item_pixmap_style = "select_*.png"
+    scrollbar = true
+    scrollbar_width = 10
+    scrollbar_thumb = "slider_*.png"
+}
+
++ progress_bar {
+    id = "__timeout__"
+    left = 25%
+    width = 50%
+    top = 75%
+    height = 20
+    text = ""
+    text_color = "#ffffff"
+    font = "Norwester Regular 24"
+    bar_style = "progress_bar_*.png"
+    highlight_style = "progress_highlight_*.png"
+}

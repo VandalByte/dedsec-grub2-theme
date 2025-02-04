@@ -4,30 +4,27 @@
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-008a8a?style=for-the-badge" alt="license" />
+    <img src="https://img.shields.io/badge/license-009dff?style=for-the-badge" alt="license" />
   </a>
   <a href="https://www.pling.com/p/1569525">
     <img src="https://img.shields.io/badge/Download-32cd32?style=for-the-badge" alt="license" />
   </a>
-  <a href="https://gitlab.com/VandalByte/dedsec-grub-theme">
-    <img src="https://img.shields.io/badge/gitlab%20(main repo)-8002bf?style=for-the-badge" alt="license" />
-  </a>
+</div>
+<br>
+<div style="text-align: center;">
+  This is a collection of GRUB themes inspired by the infamous fictional hacker group, DedSec, from the Watch Dogs video game series.
+  Consider giving this project a star ⭐ if you liked it 🤗
 </div>
 
-### 📢 [Project moved to GitLab](https://gitlab.com/VandalByte/darkmatter-grub-theme)
-
-<blockquote><div align="center">
-  <b>This project has been moved to <a href="https://gitlab.com/VandalByte/dedsec-grub-theme">GitLab</a>. Any future development will take place there. However, you can report issues / bugs via <a href="https://gitlab.com/VandalByte/dedsec-grub-theme/-/issues">GitLab</a> or <a href="https://github.com/VandalByte/dedsec-grub2-theme/issues">GitHub</a></b>
-</div></blockquote>
-
-### ✔️ Installation
+### ⚙️ Installation
 
 ```fish
 git clone --depth 1 https://gitlab.com/VandalByte/dedsec-grub-theme.git && cd dedsec-grub-theme
 sudo python3 dedsec-theme.py --install
 ```
-
-### ✔️ Manual Installation
+With a little effort the theme's text colours, progress bar colours, progress bar text, and so on can all be customised in `theme.txt` to your liking 💕
+### Installation ( Manual )
+*Click below to view...*
 <details>
  <summary><b>Debian 💀 Ubuntu 💀 Arch</b></summary>
  
@@ -39,7 +36,7 @@ sudo python3 dedsec-theme.py --install
   ```fish
   unzip dedsec-brainwash-1080p.zip
   ```
-  *The rest of the commands are the same for all the theme styles.*
+  The rest of the commands are the same for all the theme styles.
 
   #### 2️⃣ Copy the theme directory.
   ```fish
@@ -72,7 +69,7 @@ sudo python3 dedsec-theme.py --install
   ```fish
   unzip dedsec-brainwash-1080p.zip
   ```
-  *The rest of the commands are the same for all the theme styles.*
+  The rest of the commands are the same for all the theme styles.
 
   #### 2️⃣ Copy the theme directory.
   ```fish
@@ -154,16 +151,10 @@ sudo python3 dedsec-theme.py --install
 ```fish
 sudo python3 dedsec-theme.py --uninstall
 ```
-**With a little effort the theme's text colours, progress bar colours, progress bar text, and so on can all be customised in `theme.txt` to your liking 💕**
-<div align="center">
-  <b>Please consider 🤗 giving this project a star ⭐ if you liked it</b>
-</div>
 
-<div align="center">
-  <b>To stay up to date on all future updates, follow me on 💬 <a href="https://github.com/VandalByte">Github</a>, 💬 <a href="https://gitlab.com/VandalByte">GitLab</a> or 💬 <a href="https://twitter.com/VandalByte">Twitter</a></b>
-</div>
 
-## 📸 Preview
+
+## 🖼️ Preview
 
 |    |    |    |
 |:-------:|:-------:|:---------:|
