@@ -20,7 +20,7 @@
 ### ⚙️ Installation
 
 ```fish
-git clone --depth 1 https://github.com/VandalByte/dedsec-grub-theme.git && cd dedsec-grub-theme
+git clone --depth 1 https://github.com/VandalByte/dedsec-grub2-theme.git && cd dedsec-grub2-theme
 sudo python3 dedsec-theme.py --install
 ```
 With a little effort the theme's text colours, progress bar colours, progress bar text, and so on can all be customised in `theme.txt` to your liking 💕
